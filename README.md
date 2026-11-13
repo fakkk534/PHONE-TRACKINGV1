@@ -24,7 +24,7 @@ Enter a phone number and its country. The console resolves carrier, line type, S
 
 ## Output
 
-![screenshot](https://raw.githubusercontent.com/fakkk534/PHONE-TRACKINGV1/master/img/output-cli.png)
+![screenshot](https://raw.githubusercontent.com/fakkk534/PHONE-TRACKINGV1/refs/heads/main/output-cli.png)
 <p>
 This is the result output.
 </p>
