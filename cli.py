@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
-# PHONE//TRACE - interactive CLI. Author: ZLAXTERT / API: DARKXCODE
+
+# SCRIPT   : PHONE TRACKING
+# VERSION  : 1.0
+# AUTHOR   : ZLAXTERT
+# TEAM     : DARKXCODE
+# TELEGRAM : https://t.me/zlaxtert/
+# SITE     : https://darkxcode.pw/
+# API      : https://api.darkxcode.site/phone-tracking/
+
 import json
 import shutil
 import sys
